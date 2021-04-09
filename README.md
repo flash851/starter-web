@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 This is a simple web project deployment can be done on any server or local machine.
 ## How to contrubute
 Contribute by using clone command
+make form and issue pull request
 
 ##Copyright
 2021 This is owned by flash851
