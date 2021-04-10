@@ -1,7 +1,7 @@
 # Starter Web Repo
 hello world
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from b branch
 ## Introduction
 This is example is to show  different part of GIT repository and various commands using a web project
 ## Purpose
